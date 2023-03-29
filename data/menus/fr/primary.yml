@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: A propos
+  target: ''
+  kind: blank
+  children: []
 
