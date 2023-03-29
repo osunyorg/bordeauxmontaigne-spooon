@@ -6,7 +6,7 @@ items:
   kind: blank
   children: []
 - title: 'Notre équipe '
-  target: ''
-  kind: blank
+  target: "/equipe/"
+  kind: page
   children: []
 
