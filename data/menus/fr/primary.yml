@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Lancer l'application
-  target: "/"
-  kind: page
+  target: https://app.spooon.org/
+  kind: url
   children: []
 
