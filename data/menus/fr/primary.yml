@@ -9,4 +9,8 @@ items:
   target: "/equipe/"
   kind: page
   children: []
+- title: Lancer l'application
+  target: "/"
+  kind: page
+  children: []
 
