@@ -5,4 +5,8 @@ items:
   target: https://www.instagram.com/spooon.app/
   kind: url
   children: []
+- title: TikTok
+  target: https://www.tiktok.com/@spooon.app?is_from_webapp=1&amp;sender_device=pc
+  kind: url
+  children: []
 
