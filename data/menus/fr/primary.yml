@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: partenariats
-  target: "/ils-nous-font-confiance/"
+  target: "/partenariats/"
   kind: page
   children: []
 - title: Lancer l'application
