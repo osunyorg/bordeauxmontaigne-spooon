@@ -13,4 +13,8 @@ items:
   target: https://app.spooon.org/
   kind: url
   children: []
+- title: partenariats
+  target: "/ils-nous-font-confiance/"
+  kind: page
+  children: []
 
