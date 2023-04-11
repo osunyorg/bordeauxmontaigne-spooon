@@ -9,12 +9,12 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Lancer l'application
-  target: https://app.spooon.org/
-  kind: url
-  children: []
 - title: partenariats
   target: "/ils-nous-font-confiance/"
   kind: page
+  children: []
+- title: Lancer l'application
+  target: https://app.spooon.org/
+  kind: url
   children: []
 
