@@ -9,7 +9,7 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: partenariats
+- title: Partenariats
   target: "/partenariats/"
   kind: page
   children: []
