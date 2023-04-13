@@ -1,12 +1,24 @@
-.page__home 
-    .block-chapter--with-image
-        .chapter
-            flex-direction: row-reverse !important
-            justify-content: space-between !important
-            align-self: center !important
-            margin-top: 15%
-            margin-bottom: 5%
+// .page__home 
+//     .block-chapter--with-image
+//         .chapter
+//             flex-direction: row-reverse !important
+//             justify-content: space-between !important
+//             align-self: center !important
+//             margin-top: 15%
+//             margin-bottom: 5%
          
+
+.page__home
+    #block-1 
+        .chapter
+            display: flex
+            flex-direction: column-reverse
+            @include media-breakpoint-up(desktop)
+                flex-direction: row-reverse
+                justify-content: space-between
+                align-items: center
+                figure
+                    margin-left: 0   
 
 .page__home 
         .text
