@@ -4,11 +4,7 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
-  children:
-  - title: Mieux gérer votre fatigue
-    target: "/"
-    kind: page
-    children: []
+  children: []
 - title: 'Notre équipe '
   target: "/equipe/"
   kind: page
