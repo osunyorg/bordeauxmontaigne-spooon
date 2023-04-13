@@ -14,7 +14,7 @@ items:
   kind: page
   children: []
 - title: Partenariats
-  target: "/partenariats/"
+  target: "/remerciements/"
   kind: page
   children: []
 - title: Lancer l'application
