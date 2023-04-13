@@ -4,7 +4,11 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
-  children: []
+  children:
+  - title: Reconnaître les signes de fatigue
+    target: "/reconnaitre-les-signes-de-fatigue/"
+    kind: page
+    children: []
 - title: 'Notre équipe '
   target: "/equipe/"
   kind: page
