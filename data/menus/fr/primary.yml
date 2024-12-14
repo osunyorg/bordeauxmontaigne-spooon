@@ -9,17 +9,21 @@ items:
     target: "/reconnaitre-les-signes-de-fatigue/"
     kind: page
     children: []
+    path: "/pages/reconnaitre-les-signes-de-fatigue"
     file: content/fr/pages/reconnaitre-les-signes-de-fatigue/_index.html
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: 'Notre équipe '
   target: "/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Partenariats
   target: "/remerciements/"
   kind: page
   children: []
+  path: "/pages/remerciements"
   file: content/fr/pages/remerciements/_index.html
 - title: Lancer l'application
   target: https://app.spooon.mmibordeaux.com
