@@ -4,10 +4,12 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
+  new_tab: false
   children:
   - title: Reconnaître les signes de fatigue
     target: "/reconnaitre-les-signes-de-fatigue/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/reconnaitre-les-signes-de-fatigue"
     file: content/fr/pages/reconnaitre-les-signes-de-fatigue/_index.html
@@ -16,17 +18,20 @@ items:
 - title: 'Notre équipe '
   target: "/equipe/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Partenariats
   target: "/remerciements/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/remerciements"
   file: content/fr/pages/remerciements/_index.html
 - title: Lancer l'application
   target: https://app.spooon.mmibordeaux.com
   kind: url
+  new_tab: true
   children: []
 
