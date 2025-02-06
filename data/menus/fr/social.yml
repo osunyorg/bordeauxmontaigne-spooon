@@ -7,7 +7,7 @@ items:
   new_tab: true
   children: []
 - title: TikTok
-  target: https://www.tiktok.com/@spooon.app?is_from_webapp=1&amp;sender_device=pc
+  target: https://www.tiktok.com/@spooon.app?is_from_webapp=1&sender_device=pc
   kind: url
   new_tab: true
   children: []
