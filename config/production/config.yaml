@@ -2,6 +2,11 @@
 
 baseURL: https://spooon.mmibordeaux.com
 
+## OSUNY
+osuny:
+  website:
+    id: b8e9146e-b3f1-4c00-9c80-d079cb411061
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
