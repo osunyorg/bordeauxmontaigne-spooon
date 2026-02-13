@@ -2,36 +2,47 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children:
   - title: Reconnaître les signes de fatigue
+    slug: reconnaitre-les-signes-de-fatigue
     target: "/reconnaitre-les-signes-de-fatigue/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/reconnaitre-les-signes-de-fatigue"
     file: content/fr/pages/reconnaitre-les-signes-de-fatigue/_index.html
+  descendants_targets:
+  - "/reconnaitre-les-signes-de-fatigue/"
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: 'Notre équipe '
+  slug: notre-equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Partenariats
+  slug: partenariats
   target: "/remerciements/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/remerciements"
   file: content/fr/pages/remerciements/_index.html
 - title: Lancer l'application
+  slug: lancer-l-application
   target: https://app.spooon.mmibordeaux.com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
